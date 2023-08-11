@@ -1,0 +1,2 @@
+# DataPortfolioProjects
+This branch contains my personal data analytics project on World Energy Analysis.A detailed explanation of the project is given in the world_energy_analysis_report.pdf file which has been uploaded in thiis same branch. Also, you can view the tableau dashboard of this project in this lnk :https://public.tableau.com/app/profile/priyanshu.bhattacharya/viz/WorldEnergyAnalysis_16900399289160/Dashboard1
